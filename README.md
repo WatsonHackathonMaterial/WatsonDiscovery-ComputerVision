@@ -7,6 +7,7 @@
 5. Lunch break
 6. [Image Recognition tutorial](https://cloud-annotations.github.io/training/classification/cli/)
 7. Watson Discovery lecture - Helen or Lee - 20 mins.
+8. SPSS Demo - Lee - 5 mins. 
 8. [Watson Discovery tutorial](https://github.com/IBM/watson-discovery-sdu-with-assistant/blob/master/README.md) - Complete up to Step 4 - 90 minutes
 
 ## Additional Watson Discovery tutorials
