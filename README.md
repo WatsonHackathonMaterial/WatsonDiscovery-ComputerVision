@@ -13,3 +13,6 @@
 ## Additional Watson Discovery tutorials
 * Part 1: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery
 * Part 2: https://www.ibm.com/cloud/garage/tutorials/cognitive_discovery?task=2
+
+## Additional Image Recognition tutorial
+* https://github.com/IBM/drones-iot-visual-recognition
