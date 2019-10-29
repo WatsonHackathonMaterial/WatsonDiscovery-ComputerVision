@@ -1,6 +1,5 @@
 # Agenda
 
-9:30 a.m. start 
 1. [Demo Watson APIs](https://github.com/WatsonHackathonMaterial/WatsonHackathonAgenda-2019) - Helen - 45 mins.
 2. Computer Vision lecture - Nick B. - 30 mins.
 3. Break - 15 mins.
